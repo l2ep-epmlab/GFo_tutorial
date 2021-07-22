@@ -1,2 +1,6 @@
 
 .DS_Store
+*.asv
+deploy_release.m
+recursiveDir.m
+setup_VSC_Lib.m
